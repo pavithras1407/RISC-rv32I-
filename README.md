@@ -41,7 +41,6 @@ The processor implements a 3-stage pipeline:
                 | Memory & Write Back    |
                 |          (MW)          |
                 +------------------------+
-```
 
 ### Instruction Fetch (IF)
 
@@ -312,7 +311,6 @@ SRAM
    │
    ▼
 Processor Execution
-```
 
 ---
 
@@ -415,8 +413,8 @@ Simulation logs, preload files, instruction listings, and automated run scripts 
 
 # Repository Organization
 
-```
-.
+
+
 ├── RTL Source Files
 ├── AXI Infrastructure
 ├── SPI Boot Loader
@@ -426,7 +424,7 @@ Simulation logs, preload files, instruction listings, and automated run scripts 
 ├── Instruction Memory Images
 ├── Expected Output Files
 └── Documentation
-```
+
 
 ---
 
@@ -444,7 +442,3 @@ Simulation logs, preload files, instruction listings, and automated run scripts 
 
 ---
 
-
-
-Department of Electronics and Communication Engineering  
-Rajalakshmi Engineering College
